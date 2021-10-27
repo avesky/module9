@@ -1,3 +1,13 @@
+"""
+Program: scraper.py
+Author: Andy Volesky
+Last date modified: 10/27/2021
+The purpose of this program:
+
+Intro to web scraping and beautifulsoup
+
+"""
+
 import requests
 import bs4
 
